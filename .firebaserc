@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "aloha-spa-bd75c",
+    "staging": "aloha-spa-bd75c"
+  },
+  "targets": {
+    "eraspa-451bb": {
+      "hosting": {
+        "spa": [
+          "eraspa-451bb"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
